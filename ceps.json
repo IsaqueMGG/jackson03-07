@@ -1,0 +1,25 @@
+{
+    "ceps":[
+        {
+            "codigo":"01234567",
+            "cidade":"Florianópolis",
+            "Estado":"SC",
+            "Bairro":"Monte Verde",
+            "Pais":"Brasil"
+        },
+        {
+            "codigo":"76543210",
+            "cidade":"Curitiba",
+            "Estado":"PR",
+            "Bairro":"Boqueirão",
+            "Pais":"Brasil"
+        },
+        {
+            "codigo":"98765432",
+            "cidade":"Florianópolis",
+            "Estado":"SC",
+            "Bairro":"João Paulo",
+            "Pais":"Brasil"
+        }
+    ]
+}
